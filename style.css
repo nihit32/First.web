@@ -478,90 +478,40 @@ div .fa-bars{
     .img1:hover h3{
     background: rgba(147, 147, 147, 0.279);
     position: relative;
-    bottom: 87%;
+    bottom: 92%;
     height: 85%;
     left: 15%;
     width: 70%;
     border-radius: 10px;
     color: black;
-    /* transition: 0.5s; */
     font-size:10px;
 }
 
 .img2:hover h3{
     background: rgba(147, 147, 147, 0.279);
     position: relative;
-    bottom: 87%;
+    bottom: 92%;
     height: 85%;
     left: 15%;
     width: 70%;
     border-radius: 10px;
     color: black;
-    /* transition: 0.5s; */
+
     font-size:10px;
 }
 .img3:hover h3{
       background: rgba(147, 147, 147, 0.279);
     position: relative;
-    bottom: 87%;
+    bottom: 92%;
     height: 85%;
     left: 15%;
     width: 70%;
     border-radius: 10px;
     color: black;
-    /* transition: 0.5s; */
     font-size:10px;
 }
 } 
- @media only screen and (max-width:500px){
 
-    .campus .heading{
-         position: relative;
-        top: 31%;
-    }
-    .campus .container{
-        position: relative;
-        top: 29%;
-    }
-
-    .img1:hover h3{
-    background: rgba(147, 147, 147, 0.279);
-    position: relative;
-    bottom: 80%;
-    height: 74%;
-    left: 15%;
-    width: 70%;
-    border-radius: 10px;
-    color: black;
-    /* transition: 0.5s; */
-    font-size:10px;
-}
-
-.img2:hover h3{
-    background: rgba(147, 147, 147, 0.279);
-    position: relative;
-    bottom: 80%;
-    height: 74%;
-    left: 15%;
-    width: 70%;
-    border-radius: 10px;
-    color: black;
-    /* transition: 0.5s; */
-    font-size:10px;
-}
-.img3:hover h3{
-    background: rgba(147, 147, 147, 0.279);
-    position: relative;
-    bottom: 86%;
-    height: 60%;
-    left: 15%;
-    width: 70%;
-    border-radius: 10px;
-    color: black;
-    /* transition: 0.5s; */
-    font-size:10px;
-}
-} 
 .last h4{
 
     margin-bottom: 20px;
